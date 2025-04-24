@@ -1,3 +1,5 @@
+import logo from "../assets/images/logo.png";
+
 function Header() {
     return (
       <>
@@ -64,11 +66,10 @@ function Header() {
                 <nav className="main-nav">
             
                   <a href="index.html" className="logo">
-                    <img
-                      src="src/assets/images/logo.png"
-                      alt="Logo"
-                      style={{ maxWidth: "112px" }}
-                    />
+                    <logo.png style={{ maxWidth: "112px" }}  />
+                    
+                      
+                 
                   </a>
                 
                   <ul className="nav">
