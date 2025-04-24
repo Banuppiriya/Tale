@@ -65,12 +65,9 @@ function Header() {
               <div className="col-12">
                 <nav className="main-nav">
             
-                  <a href="index.html" className="logo">
-                    <logo.png style={{ maxWidth: "112px" }}  />
-                    
-                      
-                 
-                  </a>
+                <a href="index.html" class="logo">
+                        <img src={logo} alt="" style={{maxwidth: "112px"}}/>
+                    </a>
                 
                   <ul className="nav">
                     <li>

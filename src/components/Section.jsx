@@ -1,5 +1,5 @@
-import VideoThumb from "./assets/images/video-thumb.jpg"
-import happyClient1 from "./assets/images/happyclient-01.jpg";
+import VideoThumb from "../assets/images/video-thumb.jpg";
+import happyClient1 from "../assets/images/happyclient-01.jpg";
 
 function Section() {
   return (
@@ -17,7 +17,7 @@ function Section() {
                 </h4>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  doers eiusmod tempor incididunt ut labore et dolore.
+                  do eiusmod tempor incididunt ut labore et dolore.
                 </p>
                 <div className="main-button">
                   <a href="#">Discover More</a>
@@ -52,7 +52,7 @@ function Section() {
                 <div className="line-dec"></div>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  doers eiusmod tempor incididunt ut labore et dolore dolor.
+                  do eiusmod tempor incididunt ut labore et dolore dolor.
                 </p>
               </div>
               <div className="skills">
@@ -86,7 +86,7 @@ function Section() {
                   Our 4 Steps <em>To Success</em> &amp; <span>Happy Clients</span>
                 </h2>
                 <div className="line-dec"></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
               </div>
             </div>
             <div className="col-lg-12">
@@ -123,9 +123,9 @@ function Section() {
                                 </div>
                                 <p>
                                   Lorem ipsum dolor sit amet, consectetur adipiscing
-                                  elit, sed doers eiusmod tempor incididunt ut labore
+                                  elit, sed do eiusmod tempor incididunt ut labore
                                   et dolore dolor dolor sit amet, consectetur
-                                  adipicing elit, sed doers eiusmod.
+                                  adipiscing elit, sed do eiusmod.
                                 </p>
                               </div>
                               <div className="col-lg-5 align-self-center">
